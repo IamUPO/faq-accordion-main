@@ -8,7 +8,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ## View Live
 
-You can view the live version of this project on GitHub Pages: [Faq-accordion](https://iamupo.github.io/faq-accordion-main//)
+You can view the live version of this project on GitHub Pages: [Faq-accordion](https://iamupo.github.io/faq-accordion-main/)
 
 ## Connect with Me
 
